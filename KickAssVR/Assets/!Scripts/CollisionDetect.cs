@@ -55,6 +55,7 @@ public class CollisionDetect : MonoBehaviour
         if (other.gameObject == HeadTrigger)
         {
             Debug.Log("HeadHit");
+            /*// Text fields for debugging in the in-game environment
             HeadText.SetActive(true);
             GroinText.SetActive(false);
             LeftHandText.SetActive(false);
@@ -63,13 +64,15 @@ public class CollisionDetect : MonoBehaviour
             ChestText.SetActive(false);
             LeftArmText.SetActive(false);
             RightArmText.SetActive(false);
-            eHP = eHP - 80;
+            */
+            eHP -= 80;
             headCtr++; 
         }
 
         if (other.gameObject == GroinTrigger)
         {
             Debug.Log("GroinHit");
+            /*// Text fields for debugging in the in-game environment
             HeadText.SetActive(false);
             GroinText.SetActive(true);
             LeftHandText.SetActive(false);
@@ -78,7 +81,8 @@ public class CollisionDetect : MonoBehaviour
             ChestText.SetActive(false);
             LeftArmText.SetActive(false);
             RightArmText.SetActive(false);
-            eHP = eHP - 60;
+            */
+            eHP -= 60;
             groinCtr++;
         }
 
@@ -93,7 +97,7 @@ public class CollisionDetect : MonoBehaviour
             ChestText.SetActive(false);
             LeftArmText.SetActive(false);
             RightArmText.SetActive(false);
-            eHP = eHP - 10;
+            eHP -= 10;
             handCtr++;
         }
 
@@ -108,7 +112,7 @@ public class CollisionDetect : MonoBehaviour
             ChestText.SetActive(false);
             LeftArmText.SetActive(true);
             RightArmText.SetActive(true);
-            eHP = eHP - 30;
+            eHP -= 30;
             armCtr++;
         }
 
@@ -123,7 +127,7 @@ public class CollisionDetect : MonoBehaviour
             ChestText.SetActive(false);
             LeftArmText.SetActive(false);
             RightArmText.SetActive(false);
-            eHP = eHP - 40;
+            eHP -= 40;
             absCtr++;
         }
 
@@ -138,7 +142,7 @@ public class CollisionDetect : MonoBehaviour
             ChestText.SetActive(true);
             LeftArmText.SetActive(false);
             RightArmText.SetActive(false);
-            eHP = eHP - 20;
+            eHP -= 20;
             chCtr++;
         }
 
