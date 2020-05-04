@@ -40,7 +40,7 @@ Dr. Alex Redei (asmalex)
 * Compatible with:
     * Unity 2019.2.9f1
     * Oculus Rift 1.43
-    * Leap Motion 4.0.0
+    * Leap Motion 4.0.0<br />
 *No other versions have been tested and are therefore not supported*
 
 #### Developer's Guide to Using GitHub, Git Large File Storage (LFS) with Unity
