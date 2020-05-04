@@ -6,11 +6,11 @@ KickAssVR is a simulation designed to teach users self-defense. With realistic t
 ### Getting Started
 **_Must have Oculus Rift, Rift S and Leap Motion Controller to play_**
 1. Make sure your PC meets the minimum system requirements<br />
-    * Intel Core i5-4950/AMD Ryzen 5 1500X CPU
-    * Nvidia GTX 970/1060 or AMD Radeon R9 290/RX 480
-    * 8GB of RAM
-    * Four USB 3.0 ports (two for Oculus Sensors, one for Oculus VR headset, and one for Leap Motion Controller)
-    * HDMI 1.3 port
+    - Intel Core i5-4950/AMD Ryzen 5 1500X CPU
+    - Nvidia GTX 970/1060 or AMD Radeon R9 290/RX 480
+    - 8GB of RAM
+    - Four USB 3.0 ports (two for Oculus Sensors, one for Oculus VR headset, and one for Leap Motion Controller)
+    - HDMI 1.3 port
 
 2. Download and install the latest versions of Oculus VR & Leap Motion Windows VR software<br />
     - [Oculus VR Software](https://www.oculus.com/setup/#rift-s-setup)
@@ -31,16 +31,16 @@ Advisor:
 Dr. Alex Redei (asmalex)
 
 Contributors:
-    * Nathan Berman (bermannathan)
-    * Tristen Delmotte (tristdelm)
-    * Ian Duval (ClassyDuval)
-    * Jestin Griffes (jestin44)
-    * Damon Rubley (ruble1dl)
+    - Nathan Berman (bermannathan)
+    - Tristen Delmotte (tristdelm)
+    - Ian Duval (ClassyDuval)
+    - Jestin Griffes (jestin44)
+    - Damon Rubley (ruble1dl)
 
 Compatible with:
-    * Unity 2019.2.9f1
-    * Oculus Rift 1.43
-    * Leap Motion 4.0.0
+    - Unity 2019.2.9f1
+    - Oculus Rift 1.43
+    - Leap Motion 4.0.0
 *No other versions have been tested and are therefore not supported*
 
 #### Developer's Guide to Using GitHub, Git Large File Storage (LFS) with Unity
