@@ -30,21 +30,23 @@ John Apo (johnapo)
 Advisor:
 Dr. Alex Redei (asmalex)
 
-Contributors:<br />
+Contributors:
+
     - Nathan Berman (bermannathan)
     - Tristen Delmotte (tristdelm)
     - Ian Duval (ClassyDuval)
     - Jestin Griffes (jestin44)
     - Damon Rubley (ruble1dl)
 
-Compatible with:<br />
+Compatible with:
+
     - Unity 2019.2.9f1
     - Oculus Rift 1.43
     - Leap Motion 4.0.0
 *No other versions have been tested and are therefore not supported*
 
 #### Developer's Guide to Using GitHub, Git Large File Storage (LFS) with Unity
-1. Download and install the following resources, and create an account on GitHub
+1. Download and install the following resources, and create an account on GitHub<br />
     - [GitHub Website](https://github.com/)
     - [GitHub Desktop Client Download](https://desktop.github.com/)
     - [Git Version Control System Download](https://git-scm.com/)
