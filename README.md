@@ -4,9 +4,24 @@
 KickAssVR is a simulation designed to teach users self-defense. With realistic training and a user-friendly guide, we aim to help users learn how to defend themselves. Although the chances of being in a scenario where you may need self-defense is low, self-defense is an important skill to have. Our goal is to enable users to learn self-defense even if they can’t attend classes. We plan to provide convenient access to self-defense training courses for our users with an added bonus of realistic gameplay without the need for hand controllers.
 
 ### Getting Started
-**_Must have Oculus Rift and Leap Motion Controller to play_**
+**_Must have Oculus Rift, Rift S and Leap Motion Controller to play_**
+1. Make sure your PC meets the minimum system requirements<br />
+* Intel Core i5-4950/AMD Ryzen 5 1500X CPU
+* Nvidia GTX 970/1060 or AMD Radeon R9 290/RX 480
+* 8GB of RAM
+* Four USB 3.0 ports (two for Oculus Sensors, one for Oculus VR headset, and one for Leap Motion Controller)
+* HDMI 1.3 port
 
-Documentation coming soon
+2. Download and install the latest versions of Oculus VR & Leap Motion Windows VR software<br />
+  - [Oculus VR Software](https://www.oculus.com/setup/#rift-s-setup)
+  - [Leap Motion Windows VR Software](https://developer.leapmotion.com/vr-setup)
+
+3. [Configure Oculus VR headset](https://www.pcmag.com/how-to/how-to-set-up-the-oculus-rift)<br />
+
+4. [Configure Leap Motion Controller](https://developer.leapmotion.com/vr-setup/oculusrift)<br />
+
+5. Download & Play!
+  Download the build folder and double click the executable. Put the headset on and you are ready to learn self defense in KickAssVR!
 
 ### Acknowledgments
 Author:
