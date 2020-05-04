@@ -30,14 +30,14 @@ John Apo (johnapo)
 Advisor:
 Dr. Alex Redei (asmalex)
 
-Contributors:
+Contributors:<br />
     - Nathan Berman (bermannathan)
     - Tristen Delmotte (tristdelm)
     - Ian Duval (ClassyDuval)
     - Jestin Griffes (jestin44)
     - Damon Rubley (ruble1dl)
 
-Compatible with:
+Compatible with:<br />
     - Unity 2019.2.9f1
     - Oculus Rift 1.43
     - Leap Motion 4.0.0
