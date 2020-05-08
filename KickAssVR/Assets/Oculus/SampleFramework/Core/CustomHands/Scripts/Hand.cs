@@ -33,11 +33,11 @@ namespace OVRTouchSample
         public const float THUMB_DEBOUNCE_TIME = 0.15f;
 
         [SerializeField]
-        private OVRInput.Controller m_controller;
+        private OVRInput.Controller m_controller = OVRInput.Controller.None;
         [SerializeField]
         private Animator m_animator = null;
         [SerializeField]
-        private HandPose m_defaultGrabPose;
+        private HandPose m_defaultGrabPose = null;
 
         private Collider[] m_colliders = null;
         private bool m_collisionEnabled = true;
@@ -81,6 +81,12 @@ namespace OVRTouchSample
 #if UNITY_EDITOR
             OVRPlugin.SendEvent("custom_hand", (SceneManager.GetActiveScene().name == "CustomHands").ToString(), "sample_framework");
 #endif
+        }
+
+        private void OnDestroy()
+        {
+            OVRManager.InputFocusAcquired -= OnInputFocusAcquired;
+            OVRManager.InputFocusLost -= OnInputFocusLost;
         }
 
         private void Update()
