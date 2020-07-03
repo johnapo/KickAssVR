@@ -72,4 +72,26 @@ You are successfully uploaded your project to GitHub! **Congratulations!**
 
 ### References
 
-COMING SOON
+## Audio
+- United States of Smash by My Hero Academia OST - (BGM)
+- [Extreme Sports Mayhem by Eric Matyas](https://soundimage.org/sports/)
+ 
+## Video
+- [Krav Maga First Steps by Krav Maga Academy](https://www.youtube.com/watch?v=K9e9OjOEFWo)
+- [The Fundamentals of Krav Maga - Fighting Stance and Self Defense Tactics w/ AJ Draven by KMWKravMaga](https://www.youtube.com/watch?v=JfGPhSKMHE4)
+
+## GameObjects / Assets
+- [Graphy - Ultimate FPS Counter - Stats Monitor & Debugger by Tayx](https://assetstore.unity.com/detail/tools/gui/graphy-ultimate-fps-counter-stats-monitor-debugger-105778)
+- [FPS & Stats Monitor Simple To Advanced System Info by Burak Taban](https://assetstore.unity.com/detail/tools/gui/fps-stats-monitor-simple-to-advanced-system-info-69031)
+- [FREE Bodybuilder Asset Pack by Ferocious Industries](https://assetstore.unity.com/packages/3d/props/free-bodybuilder-asset-pack-130940)
+- [HQ Acoustic System by Next Level 3D](https://assetstore.unity.com/packages/3d/props/electronics/hq-acoustic-system-41886)
+- [Low Poly Buildings Lite by A3D](https://assetstore.unity.com/packages/3d/environments/low-poly-buildings-lite-98836)
+- [Low Poly Street Pack by DYNAMIC ART](https://assetstore.unity.com/packages/3d/environments/urban/low-poly-street-pack-67475)
+- [Motion Library by Rokoko Electronics ApS](https://assetstore.unity.com/motion-library)
+- [Leap Motion Unity Core Assets 4.4.0 by Ultraleap Ltd.](https://developer.leapmotion.com/unity/#5436356)
+- [Oculus Integration 1.4.2 by Oculus](https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022)
+- [Neon Shapes by MAD Entertainment](https://assetstore.unity.com/packages/2d/textures-materials/neon-shapes-61454)
+- [Sci-Fi Styled Modular Pack by karboosx](https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-styled-modular-pack-82913)
+- [Spotlight and Structure by SpaceZeta](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453)
+- [Urban building - LemmoLab](https://assetstore.unity.com/packages/3d/props/exterior/urban-building-130318)
+- [Urban Night Sky - Kendall Weaver](https://assetstore.unity.com/packages/2d/textures-materials/sky/urban-night-sky-134468)
