@@ -72,15 +72,15 @@ You are successfully uploaded your project to GitHub! **Congratulations!**
 
 ### References
 
-## Audio
+**Audio**
 - United States of Smash by My Hero Academia OST - (BGM)
 - [Extreme Sports Mayhem by Eric Matyas](https://soundimage.org/sports/)
  
-## Video
+**Video**
 - [Krav Maga First Steps by Krav Maga Academy](https://www.youtube.com/watch?v=K9e9OjOEFWo)
 - [The Fundamentals of Krav Maga - Fighting Stance and Self Defense Tactics w/ AJ Draven by KMWKravMaga](https://www.youtube.com/watch?v=JfGPhSKMHE4)
 
-## GameObjects / Assets
+**GameObjects / Assets**
 - [Graphy - Ultimate FPS Counter - Stats Monitor & Debugger by Tayx](https://assetstore.unity.com/detail/tools/gui/graphy-ultimate-fps-counter-stats-monitor-debugger-105778)
 - [FPS & Stats Monitor Simple To Advanced System Info by Burak Taban](https://assetstore.unity.com/detail/tools/gui/fps-stats-monitor-simple-to-advanced-system-info-69031)
 - [FREE Bodybuilder Asset Pack by Ferocious Industries](https://assetstore.unity.com/packages/3d/props/free-bodybuilder-asset-pack-130940)
