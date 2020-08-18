@@ -127,12 +127,12 @@ public class ButtonBehavior : MonoBehaviour
             // play successful button press sound
             SceneManager.LoadScene("Mod1_Tutorial");
         }
+        /*
         else if (UIs[2].activeSelf == true)
         {
             // play successful button press sound
             SceneManager.LoadScene("Mod2_Tutorial");
         }
-        /*
         else if (UIs[3].activeSelf == true)
         {
             // play successful button press sound

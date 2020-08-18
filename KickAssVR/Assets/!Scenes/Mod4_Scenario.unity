@@ -761,6 +761,16 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -6057140222963153312, guid: 7ca4c2b759446a34abe371383f8093c6,
+        type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -6057140222963153312, guid: 7ca4c2b759446a34abe371383f8093c6,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 8e5bc4d1a7608614ab3a491893c85b26, type: 2}
     - target: {fileID: -4216859302048453862, guid: 7ca4c2b759446a34abe371383f8093c6,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -831,16 +841,6 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.3
       objectReference: {fileID: 0}
-    - target: {fileID: -6057140222963153312, guid: 7ca4c2b759446a34abe371383f8093c6,
-        type: 3}
-      propertyPath: m_ApplyRootMotion
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -6057140222963153312, guid: 7ca4c2b759446a34abe371383f8093c6,
-        type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: 8e5bc4d1a7608614ab3a491893c85b26, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7ca4c2b759446a34abe371383f8093c6, type: 3}
 --- !u!1 &1306791634

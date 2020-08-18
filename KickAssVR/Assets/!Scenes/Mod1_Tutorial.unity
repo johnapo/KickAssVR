@@ -2575,6 +2575,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: ReferenceDummy
       objectReference: {fileID: 0}
+    - target: {fileID: -6057140222963153312, guid: 7ca4c2b759446a34abe371383f8093c6,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: db1448090153a19498587a94adbdfa79, type: 2}
+    - target: {fileID: -6057140222963153312, guid: 7ca4c2b759446a34abe371383f8093c6,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -6057140222963153312, guid: 7ca4c2b759446a34abe371383f8093c6,
+        type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 7ca4c2b759446a34abe371383f8093c6,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2644,21 +2659,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 1.5
-      objectReference: {fileID: 0}
-    - target: {fileID: -6057140222963153312, guid: 7ca4c2b759446a34abe371383f8093c6,
-        type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: db1448090153a19498587a94adbdfa79, type: 2}
-    - target: {fileID: -6057140222963153312, guid: 7ca4c2b759446a34abe371383f8093c6,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -6057140222963153312, guid: 7ca4c2b759446a34abe371383f8093c6,
-        type: 3}
-      propertyPath: m_ApplyRootMotion
-      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7ca4c2b759446a34abe371383f8093c6, type: 3}
@@ -4276,16 +4276,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3901846658796779122, guid: 708991ec46e59c84d96ce8fbc21016d8,
-        type: 3}
-      propertyPath: hand
-      value: 
-      objectReference: {fileID: 1751174946797054}
     - target: {fileID: 3901846659539681740, guid: 708991ec46e59c84d96ce8fbc21016d8,
         type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3901846658796779122, guid: 708991ec46e59c84d96ce8fbc21016d8,
+        type: 3}
+      propertyPath: hand
+      value: 
+      objectReference: {fileID: 1751174946797054}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 708991ec46e59c84d96ce8fbc21016d8, type: 3}
 --- !u!54 &5437987200553308342
